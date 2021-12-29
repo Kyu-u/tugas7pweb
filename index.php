@@ -12,10 +12,7 @@
 		html, 
         body { 
             height: 100%; 
-            background-image: url("https://wallpapercave.com/wp/wp3377140.jpg");
-            background-position: center;
-  			background-repeat: no-repeat;
-  			background-size: cover;
+
         }
 		.mid-center { 
             top: 50%; 
